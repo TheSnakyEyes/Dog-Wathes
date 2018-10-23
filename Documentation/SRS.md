@@ -77,7 +77,7 @@
 
 Окно для просмотра и добавления новых заметок.
 
-![Окно для просмотра и добавления новых ингредиентов](../Documentation/Mockups/Item_list.png) 
+![Окно для просмотра и добавления заметок](../Documentation/Mockups/Note_list.png) 
 
 <a name ="user_characteristics"><a/>
 
