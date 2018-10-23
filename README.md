@@ -1,5 +1,5 @@
 Dog Wathes
-This app will help you to care, train and have fun with your dog..
+Это приложение поможет вам подобрать правильную диету для собаки, а также систематизировать тренировки.
 
 # Content
-1.[Documentation](Documentation) 
+1.[Documentation](Документация) 
