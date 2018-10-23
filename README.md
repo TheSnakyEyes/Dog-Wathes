@@ -1,5 +1,5 @@
-# Simple-FB-Reader
-Simple tool to read FB2 books.
+Dog Wathes
+This app will help you to care, train and have fun with your dog..
 
 # Content
 1.[Documentation](Documentation) 
