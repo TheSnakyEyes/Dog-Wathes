@@ -1,7 +1,7 @@
 # Диаграмма прецедентов
 ---
 
-![Use Case](https://github.com/TheSnakyEyes/Dog-Wathes/blob/master/Documentation/UML/UserCase/UseCase.png)
+![Use Case](https://github.com/TheSnakyEyes/Dog-Wathes/blob/master/Documentation/UML/UseCase/UseCase.png)
 
 
 # Содержание
